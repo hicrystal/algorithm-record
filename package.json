@@ -1,0 +1,22 @@
+{
+  "name": "algorithm-record",
+  "version": "1.0.0",
+  "description": "a record for algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hicrystal/algorithm-record.git"
+  },
+  "author": "jinggao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hicrystal/algorithm-record/issues"
+  },
+  "homepage": "https://github.com/hicrystal/algorithm-record#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
